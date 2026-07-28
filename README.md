@@ -87,8 +87,10 @@ Full Stack Developer • Django REST Framework • React.js
 
 # 🐍 Contribution Snake
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rabindra-1/Rabindra-1/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Rabindra-1/Rabindra-1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
