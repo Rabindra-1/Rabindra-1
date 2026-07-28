@@ -1,90 +1,173 @@
-<h1 align="center">Rabindra Kumar Sah</h1>
-<h3 align="center">Full Stack Developer (Django REST Framework • React.js)</h3>
+<h1 align="center">Hi 👋, I'm Rabindra Kumar Sah</h1>
+
+<h3 align="center">
+Full Stack Developer • Django REST Framework • React.js
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Focused+Engineer;Django+REST+Framework;React+Developer&center=true&width=420&height=45">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Developer;Django+REST+Framework;React.js+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Rabindra-1">
+<img src="https://img.shields.io/github/followers/Rabindra-1?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Rabindra-1">
+<img src="https://img.shields.io/github/stars/Rabindra-1?affiliations=OWNER&style=for-the-badge" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Rabindra-1&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About
+# 👨‍💻 About Me
 
-Full Stack Developer with a strong focus on backend development using Django REST Framework.  
-I build scalable APIs and integrate them with modern frontend applications using React.
-
-- 🔧 Focus: Backend Systems, REST APIs  
-- ⚡ Stack: Django REST + React  
-- 🌱 Currently improving: System Design & Backend Architecture  
-- 📫 Contact: **sahrabindra394@gmail.com**
+- 💻 Full Stack Developer
+- 🔥 Backend Focused
+- 🚀 Django REST Framework + React.js
+- 🌱 Learning System Design & Scalable Backend
+- 📫 Email: **sahrabindra394@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,docker,linux" />
+
+<img src="https://skillicons.dev/icons?i=python,django,react,js,java,html,css,git,github,docker,linux,mysql,vscode" />
+
 </p>
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Projects
 
-### 🔹 Blog Platform (Full Stack)
-- Django REST API + React frontend  
-- Authentication, CRUD, commenting system  
-- 🔗 https://github.com/Rabindra-1/Django_React  
+## 📌 AI Blog Generator
 
-### 🔹 Chat Application
-- Java Socket Programming (Client-Server)  
-- Real-time communication system  
-- 🔗 https://github.com/Rabindra-1/Chatapp_Java  
+- Django REST Framework
+- React.js
+- AI-powered blog generation
+- Authentication
+- REST APIs
 
-### 🔹 Airline Management System
-- Java Desktop Application (Swing/AWT)  
-- Booking and passenger management  
-- 🔗 https://github.com/Rabindra-1/AirlineManagementSystem  
+🔗 https://github.com/Rabindra-1
 
 ---
 
-## 📊 GitHub Overview
+## 📌 Django React Blog
+
+- JWT Authentication
+- CRUD
+- REST API
+- Responsive UI
+
+🔗 https://github.com/Rabindra-1/Django_React
+
+---
+
+## 📌 Airline Management System
+
+- Java
+- Swing
+- Flight Booking
+- Passenger Management
+
+🔗 https://github.com/Rabindra-1/AirlineManagementSystem
+
+---
+
+## 📌 Chat Application
+
+- Java Socket Programming
+- Client Server Architecture
+- Real-time Messaging
+
+🔗 https://github.com/Rabindra-1/Chatapp_Java
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-1&show_icons=true&theme=default&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rabindra-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabindra-1&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-1&theme=default&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Rabindra-1&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 📈 Activity
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabindra-1&theme=default" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-1&theme=tokyo-night&hide_border=true" />
+
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+# 🏆 GitHub Trophies
 
-![snake gif](https://github.com/Rabindra-1/Rabindra-1/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rabindra-1&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
 
 ---
 
-## 🤝 Connect
+# 📊 Profile Summary
 
 <p align="center">
-  <a href="https://github.com/Rabindra-1">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
-  </a>
-  <a href="mailto:sahrabindra394@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
-  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabindra-1&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rabindra-1/Rabindra-1/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="mailto:sahrabindra394@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rabindra-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>Focused on building clean backend systems and real-world applications.</i>
+
+<i>Building scalable backend systems and solving real-world problems through clean code.</i>
+
 </p>
