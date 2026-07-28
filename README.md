@@ -51,8 +51,8 @@ Full Stack Developer • Django REST Framework • React.js
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rabindra-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabindra-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rabindra-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rabindra's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabindra-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -64,9 +64,8 @@ Full Stack Developer • Django REST Framework • React.js
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-1&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
